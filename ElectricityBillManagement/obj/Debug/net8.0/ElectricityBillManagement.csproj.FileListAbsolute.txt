@@ -1,0 +1,14 @@
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\bin\Debug\net8.0\ElectricityBillManagement.exe
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\bin\Debug\net8.0\ElectricityBillManagement.deps.json
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\bin\Debug\net8.0\ElectricityBillManagement.runtimeconfig.json
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\bin\Debug\net8.0\ElectricityBillManagement.dll
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\bin\Debug\net8.0\ElectricityBillManagement.pdb
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.AssemblyInfoInputs.cache
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.AssemblyInfo.cs
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.csproj.CoreCompileInputs.cache
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.dll
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\refint\ElectricityBillManagement.dll
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.pdb
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.genruntimeconfig.cache
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ref\ElectricityBillManagement.dll
