@@ -12,3 +12,4 @@ C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement
 C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.pdb
 C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.genruntimeconfig.cache
 C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ref\ElectricityBillManagement.dll
+C:\School folder\RiderFolder\ElectricityBillManagement\ElectricityBillManagement\obj\Debug\net8.0\ElectricityBillManagement.sourcelink.json

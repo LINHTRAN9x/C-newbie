@@ -28,8 +28,20 @@
                 dinhMuc = 50,
                 newUnitPrice = 2000
             };
+            Vietnamese vietnameseCustomer3 = new Vietnamese
+            {
+                customerID = "VN003",
+                name = "Nguyen Van C",
+                invoiceDate = new DateTime(2024, 4, 22),
+                customerType = "sinh hoạt",
+                quatityKW = 150,
+                unitPrice = 2000,
+                dinhMuc = 200,
+                newUnitPrice = 2000
+            };
             listCustomer.Add(vietnameseCustomer);
             listCustomer.Add(vietnameseCustomer2);
+            listCustomer.Add(vietnameseCustomer3);
 
             ForeignCustomer foreignCustomer = new ForeignCustomer
             {
@@ -43,7 +55,7 @@
             listCustomer.Add(foreignCustomer);
             foreach (Customer customer in listCustomer)
             {
-                Console.WriteLine($"Customer: {customer.name}, Total: {customer.calculateTotal()}");
+                Console.WriteLine($"Customer: {customer.name}, Total: {customer.CalculateTotal()}");
             }
 
             

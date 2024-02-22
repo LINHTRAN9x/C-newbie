@@ -8,7 +8,7 @@ public class Customer
     public double quatityKW { get; set; }
     public double unitPrice { get; set; }
 
-    public virtual double calculateTotal()
+    public virtual double CalculateTotal()
     {
         return quatityKW * unitPrice;
     }
